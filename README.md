@@ -1,5 +1,5 @@
 # PROJETOS DIO
-### Todos projetos promovidos pela DIO estarão aqui :D
+### Todos projetos propostos pela DIO estarão aqui :D
 
 # Comandos GIT Importantes para não esquecer
 
