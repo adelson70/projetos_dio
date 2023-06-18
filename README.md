@@ -1,2 +1,2 @@
-# projetos_dio
-Todos projetos promovidos pela DIO estarão aqui :D
+# PROJETOS DIO
+### Todos projetos promovidos pela DIO estarão aqui :D
